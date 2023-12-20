@@ -5,7 +5,7 @@
 
 ### 1. Scraper tells me to "Refresh update games lists to apply changes" but there is no option to.
 
-It updates the game list upon restart of Emulation Station. Press the Start Button in the Main Menu, go to Quit and select to Restart Emulation Station.
+*It updates the game list upon restart of Emulation Station. Press the Start Button in the Main Menu, go to Quit and select to Restart Emulation Station.*
 
 ### 2. How do I connect WiFi?
 
