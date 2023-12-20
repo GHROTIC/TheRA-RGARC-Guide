@@ -1,6 +1,11 @@
-<p style="color:yellow"><b>1. Scraper tells me to "Refresh update games lists to apply changes" but there is no option to.</b></p>
+## <p align="center">FAQ for Beta 9 of The Retro Arena RG Arc Linux Firmware</p>
 
-It updates the game list upon restart of Emulation Station. Hit start, go to quit and restart Emulation Station.
+
+
+
+1. Scraper tells me to "Refresh update games lists to apply changes" but there is no option to.
+
+It updates the game list upon restart of Emulation Station. Hit start, go to quit and restart Emulation Station.//
 
 2. How do I connect WiFi?
 
