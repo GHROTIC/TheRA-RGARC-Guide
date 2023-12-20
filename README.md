@@ -1,4 +1,4 @@
-1. Scraper tells me to "Refresh update games lists to apply changes" but there is no option to. 
+<p style="color:yellow"><b>1. Scraper tells me to "Refresh update games lists to apply changes" but there is no option to.</b></p>
 
 It updates the game list upon restart of Emulation Station. Hit start, go to quit and restart Emulation Station.
 
