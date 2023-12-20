@@ -5,7 +5,7 @@
 
 ### 1. Scraper tells me to "Refresh update games lists to apply changes" but there is no option to.
 
-*Press the Start Button in the Main Menu, go to Quit and select to Restart Emulation Station to update your Game Lists.*
+*Press the Start Button in the Main Menu, go to Quit at the bottom and select to Restart Emulation Station to update your Game Lists.*
 
 ### 2. How do I connect to WiFi?
 
@@ -13,15 +13,15 @@
 
 ### 3. My Networks are missing in the Retroarch Wi-Fi -> Connect to Network Menu. How do I make them show up?
 
-*If it Scans for Networks and does not find your Network you will need to back out with the B button twice and Quit Retroarch. In the Main Menu go to Options -> Advanced -> WIFION(Options -> WIFION if you have folders hidden) and your system will reboot. Once you go back to Connect to Network in Retroarch your Networks should now appear.*
+*If Retroarch Scans for Networks and does not find your Network you will need to back out with the B button twice and Quit Retroarch. In the Main Menu go to Options -> Advanced -> WIFION(Options -> WIFION if you have folders hidden) and your system will reboot. Once you go back to Connect to Network in Retroarch your Networks should now appear.*
 
 ### 4. How do I update the software?
 
-*Once you are connected to Wifi in Retroarch go into Options -> Arcupdate. Once the update has completed go to Options -> Fix Permissions. Press the Start Button and go down the menu to Quit -> Restart*
+*Once you are connected to Wifi you can go into Options -> Arcupdate to open the OTA Update Software. By default it will have Updating to the latest Version highlighted and you will only need to press the A button to confirm. Once the update has completed and you are back at the Main Menu go to Options -> Fix Permissions. After the Fix Permissions script sends you back to the Main Menu press the Start Button and go down the menu to Quit -> Restart.*
 
 ### 5. How do I change my Theme?
 
-*Go to Options -> Misc -> Thememaster to download new Themes(Warning: Some themes are not compatible and will not look correct).*
+*Go to Options -> Misc -> Thememaster(Options -> Thememaster if you have folders hidden) to download new Themes(Warning: a few themes are not compatible and will be partially broken or will be completely missing text - will note at a later time).*
 
 ### 6. How do I open the menu while playing a game?
 
