@@ -1,6 +1,6 @@
 # <p align=center>The Retro Arena Custom Firmware Guide</p>
 ###### <p align=center>Current BETA Version: 9</p>
-
+<img src=https://i.imgur.com/lTJdQyN.jpg>
 <br>
 
 
@@ -58,6 +58,10 @@
 ###### ***Default login and password is:<br> Login: ark<br> Password: ark***
 
 ###### ***If your SSH client (for example Filezilla [recommended] ) asks you for a port, introduce "22". Now you can browse through the complete file system and transfer files at will. Backup your files before doing any changes this way, highly recommended, almost obligatory if you ask me. - (Credit to Foxtochop)***
+
+### 10. My power button doesn't put the ARC into Sleep Mode and/or my Volume Buttons aren't working. What should I do?
+
+###### ***Go to the Main Menu, select Options -> Fix Permissions. After the Fix Permissions script sends you back to the Main Menu press the Start Button and go down the menu to Quit -> Restart.***
 
 
 <br>
