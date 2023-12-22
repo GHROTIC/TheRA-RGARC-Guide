@@ -35,7 +35,7 @@
 
 ### 4. How do I update the software?
 
-###### ***Once you are connected to Wifi you can go into Options -> Arcupdate to open the OTA Update Software. By default it will have Updating to the latest Version highlighted and you will only need to press the A button to confirm. Once the update has completed and you are back at the Main Menu go to Options -> Fix Permissions. After the Fix Permissions script sends you back to the Main Menu press the Start Button and go down the menu to Quit -> Restart.***
+###### ***Once you are connected to Wifi you can go into Options -> Arcupdate to open the OTA Update Software. By default it will have "Updating to the latest Version" highlighted and you will only need to press the A button to confirm. Once the update has completed and you are back at the Main Menu go to Options -> Fix Permissions. After the Fix Permissions script sends you back to the Main Menu press the Start Button and go down the menu to Quit -> Restart.***
 
 ### 5. How do I change my Theme?
 
