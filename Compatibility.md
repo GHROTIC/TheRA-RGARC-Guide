@@ -13,4 +13,4 @@
 | **Game Name**       | **Region** | **Notes**                                                       |      **Alternate Version**      |
 | :------------------ | :--------: | :-------------------------------------------------------------- | ------------------------------: |
 | Waku Waku 7         | Japan      | *Various levels of missing sprites and flickering. Unplayable.* | Neo Geo Arcade |
-| Burning Rangers     | USA        | Content Cell | Content Cell |
+| Burning Rangers     | USA        | Crashes after character Select                                  | N/A                             |
