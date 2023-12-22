@@ -1,11 +1,27 @@
-## <p align="center">FAQ for Beta 9 of The Retro Arena RG Arc Linux Firmware</p>
+# <p align=center>The Retro Arena Custom Firmware Guide</p>
+###### <p align=center> This is a WIP to answer some commonly asked questions for the TRA Beta 9</p>
 
+ 
+## <p align=center>Known Issues:</p>
 
+- *The colors on some systems are inverted (i.e. Dreamcast, Naomi and Atomiswave)*
+- *Attempting to scrape in the Edit Metadata section of a Rom causes EmulationStation to crash instead of opening the menu to manually match*
+<br>
+<br>
 
+## <p align=center>FAQ:</p>
 
-### 1. Scraper tells me to "Refresh update games lists to apply changes" but there is no option to.
+### **1. Scraper tells me to "Refresh update games lists to apply changes" but how do update the game list?**
 
-*Press the Start Button in the Main Menu, go to Quit at the bottom and select to Restart Emulation Station to update your Game Lists.*
+###### ***Press the Start Button in the Main Menu, go to Quit at the bottom and select to Restart Emulation Station to update your Game Lists. In some cases your games may fail to show the correct images until you Restart System instead.***
+
+### **2. What software should I use to flash my Micro SD Card?**
+
+###### ***Rufus has been found to be the most reliable by the community: https://rufus.ie***
+
+### **3. What format should my Micro SD Cards be in?**
+
+###### ***Your TF1/SD1 card will have the correct formatting applied when you flash the image with Rufus. Your TF2/SD2 card may be formatted ExFat or NTFS but it is recommended to use NTFS.***
 
 ### 2. How do I connect to WiFi?
 
@@ -30,3 +46,14 @@
 ### 7. How do I exit a game?
 
 *By default this is set to F(Function Key on the top of the device) twice.*
+
+### 8. Why do I not see the C and Z buttons in the Retroarch controller configuration?
+
+*Within Retroarch the setting for Z will be the L3 button and C will be the R3 button.*
+
+
+
+
+
+<br>
+Much thanks to TechToyTinker for bringing this software to the fans of the RG ARC. You can find his YouTube Tutorials here: https://www.youtube.com/@TechToyTinkerCompany
