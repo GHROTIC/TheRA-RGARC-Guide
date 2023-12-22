@@ -7,7 +7,7 @@
 ## <p align=center>Known Issues:</p>
 
 - *The colors on some systems are inverted (i.e. Dreamcast, Naomi and Atomiswave)*
-- *Attempting to scrape in the Edit Metadata section of a Rom causes EmulationStation to crash instead of opening the menu to manually match*
+- *Attempting to manually scrape in the Edit Metadata section of a Rom causes EmulationStation to crash*
 <br>
 <br>
 
