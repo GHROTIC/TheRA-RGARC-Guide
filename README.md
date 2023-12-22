@@ -1,7 +1,9 @@
 # <p align=center>The Retro Arena Custom Firmware Guide</p>
-###### <p align=center> This is a WIP to answer some commonly asked questions for the TRA Beta 9</p>
+###### <p align=center>Current BETA Version: 9</p>
 
- 
+<br>
+
+
 ## <p align=center>Known Issues:</p>
 
 - *The colors on some systems are inverted (i.e. Dreamcast, Naomi and Atomiswave)*
@@ -11,49 +13,50 @@
 
 ## <p align=center>FAQ:</p>
 
-### **1. Scraper tells me to "Refresh update games lists to apply changes" but how do update the game list?**
+### 1. Scraper tells me to "Refresh update games lists to apply changes" but how do update the game list?
 
 ###### ***Press the Start Button in the Main Menu, go to Quit at the bottom and select to Restart Emulation Station to update your Game Lists. In some cases your games may fail to show the correct images until you Restart System instead.***
 
-### **2. What software should I use to flash my Micro SD Card?**
+### 2. What software should I use to flash my Micro SD Card?
 
 ###### ***Rufus has been found to be the most reliable by the community: https://rufus.ie***
 
-### **3. What format should my Micro SD Cards be in?**
+### 3. What format should my Micro SD Cards be in?
 
 ###### ***Your TF1/SD1 card will have the correct formatting applied when you flash the image with Rufus. Your TF2/SD2 card may be formatted ExFat or NTFS but it is recommended to use NTFS.***
 
 ### 2. How do I connect to WiFi?
 
-*Go to the Retroarch folder in the Main Menu and open Retroarch. Go to Settings -> Wi-Fi -> Connect to Network.*
+###### ***Go to the Retroarch folder in the Main Menu and open Retroarch. Go to Settings -> Wi-Fi -> Connect to Network.***
 
-### 3. My Networks are missing in the Retroarch Wi-Fi -> Connect to Network Menu. How do I make them show up?
+### 3. My Networks are missing in the Retroarch Wi-Fi -> Connect to Network Menu. How do I make them appear?
 
-*If Retroarch Scans for Networks and does not find your Network you will need to back out with the B button twice and Quit Retroarch. In the Main Menu go to Options -> Advanced -> WIFION(Options -> WIFION if you have folders hidden) and your system will reboot. Once you go back to Connect to Network in Retroarch your Networks should now appear.*
+###### ***If Retroarch Scans for Networks and does not find your Network you will need to back out with the B button twice and Quit Retroarch. In the Main Menu go to Options -> Advanced -> WIFION(Options -> WIFION if you have folders hidden) and your system will reboot. Once you go back to Connect to Network in Retroarch your Networks should now appear.***
 
 ### 4. How do I update the software?
 
-*Once you are connected to Wifi you can go into Options -> Arcupdate to open the OTA Update Software. By default it will have Updating to the latest Version highlighted and you will only need to press the A button to confirm. Once the update has completed and you are back at the Main Menu go to Options -> Fix Permissions. After the Fix Permissions script sends you back to the Main Menu press the Start Button and go down the menu to Quit -> Restart.*
+###### ***Once you are connected to Wifi you can go into Options -> Arcupdate to open the OTA Update Software. By default it will have Updating to the latest Version highlighted and you will only need to press the A button to confirm. Once the update has completed and you are back at the Main Menu go to Options -> Fix Permissions. After the Fix Permissions script sends you back to the Main Menu press the Start Button and go down the menu to Quit -> Restart.***
 
 ### 5. How do I change my Theme?
 
-*Go to Options -> Misc -> Thememaster(Options -> Thememaster if you have folders hidden) to download new Themes(Warning: a few themes are not compatible and will be partially broken or will be completely missing text - will note at a later time).*
+###### ***Go to Options -> Misc -> Thememaster(Options -> Thememaster if you have folders hidden) to download new Themes(Warning: a few themes are not compatible and will be partially broken or will be completely missing text - will note at a later time).***
 
 ### 6. How do I open the menu while playing a game?
 
-*By default this is set to L2 + R2 for Retroarch based emulators. For Yaba Sanshiro Standalone(Sega Saturn) you can use the Select Button.*
+###### ***By default this is set to L2 + R2 for Retroarch based emulators. For Yaba Sanshiro Standalone(Sega Saturn) you can use the Select Button.***
 
 ### 7. How do I exit a game?
 
-*By default this is set to F(Function Key on the top of the device) twice.*
+###### ***By default this is set to F(Function Key on the top of the device) twice.***
 
 ### 8. Why do I not see the C and Z buttons in the Retroarch controller configuration?
 
-*Within Retroarch the setting for Z will be the L3 button and C will be the R3 button.*
-
-
-
-
+###### ***Within Retroarch the setting for Z will be the L3 button and C will be the R3 button.***
 
 <br>
-Much thanks to TechToyTinker for bringing this software to the fans of the RG ARC. You can find his YouTube Tutorials here: https://www.youtube.com/@TechToyTinkerCompany
+<br>
+<br>
+
+*<p align=center> Much thanks to TechToyTinker for bringing this software to the fans of the RG ARC. You can find his YouTube Tutorials here: https://www.youtube.com/@TechToyTinkerCompany </p>*
+
+<br>
