@@ -57,6 +57,6 @@
 <br>
 <br>
 
-*<p align=center> Much thanks to TechToyTinker for bringing this software to the fans of the RG ARC. You can find his YouTube Tutorials here: https://www.youtube.com/@TechToyTinkerCompany </p>*
+*<p align=center> Much thanks to TechToyTinker for bringing this software to the fans of the RG ARC. You can find his YouTube Tutorials here:<br> https://www.youtube.com/@TechToyTinkerCompany </p>*
 
 <br>
