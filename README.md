@@ -53,6 +53,13 @@
 
 ###### ***Within Retroarch the setting for Z will be the L3 button and C will be the R3 button.***
 
+### 9. How do I use SSH for file transfers over WiFi?
+
+###### ***Default login and password is:<br> Login: ark<br> Password: ark***
+
+###### ***If your SSH client (for example Filezilla [recommended] ) asks you for a port, introduce "22". Now you can browse through the complete file system and transfer files at will. Backup your files before doing any changes this way, highly recommended, almost obligatory if you ask me.***
+
+
 <br>
 <br>
 <br>
