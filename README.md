@@ -57,7 +57,7 @@
 
 ###### ***Default login and password is:<br> Login: ark<br> Password: ark***
 
-###### ***If your SSH client (for example Filezilla [recommended] ) asks you for a port, introduce "22". Now you can browse through the complete file system and transfer files at will. Backup your files before doing any changes this way, highly recommended, almost obligatory if you ask me.***
+###### ***If your SSH client (for example Filezilla [recommended] ) asks you for a port, introduce "22". Now you can browse through the complete file system and transfer files at will. Backup your files before doing any changes this way, highly recommended, almost obligatory if you ask me. - Credit to Foxtochop***
 
 
 <br>
