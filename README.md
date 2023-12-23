@@ -4,7 +4,9 @@
 
 <br>
 
-###### *<p align=center>Joey's Retro Handheld's has made a good starter video for installing the Firmware(Beta 9). If you find it helpful be sure to give him a like and a subscribe:</p>*
+## <p align=center>Installation:</p>
+
+##### *<p align=center>Joey's Retro Handheld's has made a good starter video for installing the Firmware(Beta 9). If you find it helpful be sure to give him a like and a subscribe:</p>*
 
 <br>
 
