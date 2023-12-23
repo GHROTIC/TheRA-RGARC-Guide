@@ -1,23 +1,26 @@
 # <p align=center>The Retro Arena Custom Firmware Guide</p>
-###### <p align=center>Current BETA Version: 9</p>
+#### **<p align=center>Current Version: Beta 9</p>**
 <p align=center><img src=https://i.imgur.com/lTJdQyN.jpg width=60%></p>
 
 <br>
 
-Joey's Retro Handheld's has made a good starter video for installing the Firmware. If it's helpful be sure to give him a like and subscribe:<br>
+###### *<p align=center>Joey's Retro Handheld's has made a good starter video for installing the Firmware(Beta 9). If you find it helpful be sure to give him a like and a subscribe:</p>*
 
-[![Retro Arena CFW for the Anbernic RG ARC...](https://img.youtube.com/vi/dTAqpZinv2M/0.jpg)](https://www.youtube.com/watch?v=dTAqpZinv2M)
 
-<img src=[https://i.imgur.com/lTJdQyN.jpg](https://www.youtube.com/watch?v=dTAqpZinv2M) width=60%>
+ [<img src=https://img.youtube.com/vi/dTAqpZinv2M/0.jpg width=50%>](https://www.youtube.com/watch?v=dTAqpZinv2M)
+
+<br>
+<br>
 
 ## <p align=center>Known Issues:</p>
 
 - *The colors on some systems are inverted (i.e. Dreamcast, Naomi and Atomiswave)*
 - *Attempting to manually scrape in the Edit Metadata section of a Rom causes EmulationStation to crash*
+- 
 <br>
 <br>
 
-## <p align=center>FAQ:</p>
+## <p align=center>FAQ & Troubleshooting:</p>
 
 ### 1. Scraper tells me to "Refresh update games lists to apply changes" but how do update the game list?
 
