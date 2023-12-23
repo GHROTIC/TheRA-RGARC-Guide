@@ -1,8 +1,14 @@
 # <p align=center>The Retro Arena Custom Firmware Guide</p>
 ###### <p align=center>Current BETA Version: 9</p>
-<img src=https://i.imgur.com/lTJdQyN.jpg>
+<p align=center><img src=https://i.imgur.com/lTJdQyN.jpg width=60%></p>
+
 <br>
 
+Joey's Retro Handheld's has made a good starter video for installing the Firmware. If it's helpful be sure to give him a like and subscribe:<br>
+
+[![Retro Arena CFW for the Anbernic RG ARC...](https://img.youtube.com/vi/dTAqpZinv2M/0.jpg)](https://www.youtube.com/watch?v=dTAqpZinv2M)
+
+<img src=[https://i.imgur.com/lTJdQyN.jpg](https://www.youtube.com/watch?v=dTAqpZinv2M) width=60%>
 
 ## <p align=center>Known Issues:</p>
 
