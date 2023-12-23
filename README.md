@@ -6,8 +6,9 @@
 
 ###### *<p align=center>Joey's Retro Handheld's has made a good starter video for installing the Firmware(Beta 9). If you find it helpful be sure to give him a like and a subscribe:</p>*
 
+<br>
 
- [<img src=https://img.youtube.com/vi/dTAqpZinv2M/0.jpg width=50%>](https://www.youtube.com/watch?v=dTAqpZinv2M)
+ [<img src=https://img.youtube.com/vi/dTAqpZinv2M/0.jpg width=40%>](https://www.youtube.com/watch?v=dTAqpZinv2M)
 
 <br>
 <br>
@@ -16,7 +17,7 @@
 
 - *The colors on some systems are inverted (i.e. Dreamcast, Naomi and Atomiswave)*
 - *Attempting to manually scrape in the Edit Metadata section of a Rom causes EmulationStation to crash*
-- 
+
 <br>
 <br>
 
