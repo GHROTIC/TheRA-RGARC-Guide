@@ -52,7 +52,7 @@
 
 ### 5. How do I change my Theme?
 
-###### ***Go to Options -> Misc -> Thememaster(Options -> Thememaster if you have folders hidden) to download new Themes(Warning: a few themes are not compatible and will be partially broken or will be completely missing text - will note at a later time).***
+###### ***Go to the Main Menu, select Options -> Misc -> Thememaster to download new Themes(Warning: a few themes are not compatible and will be partially broken or will be completely missing text - will note at a later time).***
 
 ### 6. How do I open the menu while playing a game?
 
