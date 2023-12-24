@@ -10,7 +10,8 @@
 
 ### <p align=center>-:Sega Saturn:-</p>
 
-| **Game Name**       | **Region** | **Notes**                                                       |      **Alternate Version**      |
-| :------------------ | :--------: | :-------------------------------------------------------------- | ------------------------------: |
-| Waku Waku 7         | Japan      | *Various levels of missing sprites and flickering. Unplayable.* | Neo Geo Arcade |
-| Burning Rangers     | USA        | Crashes after character Select                                  | N/A                             |
+| **Game Name**          | **Region** | **Notes**                                                       | **Fix or Alternate Version**                             |
+| ---------------------- | :--------: | --------------------------------------------------------------- | -------------------------------------------------------- |
+| Burning Rangers        | USA        | *Crashes after Character Select*                                | N/A                                                      |
+| Keio Flying Squadron 2 | Europe     | *Crashes after Game Start*                                      | Edit Metadata to run under Retroarch32/Yabasanshiro Core |
+| Waku Waku 7            | Japan      | *Various levels of missing sprites and flickering. Unplayable.* | Neo Geo version is playable                              |
