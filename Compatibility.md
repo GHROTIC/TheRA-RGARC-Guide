@@ -1,10 +1,8 @@
-# <p align=center>Compatability Issues:</p>
-##### <p align=center>(As the majority of titles work for systems up to Dreamcast I found it best to just create a list of what does not work on this system)</p>
+# <p align=center>Incompatibility Issues:</p>
 
 
 
-
-###### *There may be additional incompatible titles. Only one regional variant tested in most cases. CHD Format.
+###### *There may be additional incompatible titles. Only one regional variant tested in most cases. CHD Format. Default CFW settings.
 
 
 
