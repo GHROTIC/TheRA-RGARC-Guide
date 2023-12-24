@@ -70,7 +70,7 @@
 
 ###### ***Default login and password is:<br> Login: ark<br> Password: ark***
 
-###### ***If your SSH client (for example Filezilla [recommended] ) asks you for a port, introduce "22". Now you can browse through the complete file system and transfer files at will. Backup your files before doing any changes this way, highly recommended, almost obligatory if you ask me. - (Credit to Foxtochop)***
+###### ***If your SSH client (for example Filezilla [recommended] ) asks you for a port, introduce "22". Now you can browse through the complete file system and transfer files at will. Backup your files before doing any changes this way, highly recommended, almost obligatory if you ask me. - (Credit to Foxtochop on Discord)***
 
 ### 10. My power button doesn't put the ARC into Sleep Mode and/or my Volume Buttons aren't working. What should I do?
 
