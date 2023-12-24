@@ -78,7 +78,7 @@
 
 ### 11. How do I switch my Rom storage to/from SD Card 1 and SD Card 2?
 
-###### ***Go to the Main Menu, select Options -> Advanced. Switch to SD2 for Roms or Switch to main SD for Roms will be in the directory depending on what you already have active. ***
+###### ***Go to the Main Menu, select Options -> Advanced. Switch to SD2 for Roms or Switch to main SD for Roms will be in the directory depending on what you already have active.***
 
 ### 12. I want to go back to the stock firmware. Where can I download it?
 
