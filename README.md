@@ -26,7 +26,7 @@
 
 ## <p align=center>FAQ & Troubleshooting:</p>
 
-### 1. Scraper tells me to "Refresh update games lists to apply changes" but how do update the game list?
+### 1. Scraper tells me to "Refresh update games lists to apply changes" but how do I update the game list?
 
 ###### ***Press the Start Button in the Main Menu, go to Quit at the bottom and select to Restart EmulationStation to update your Game Lists. In some cases your games may fail to show the correct images until you Restart System instead.***
 
