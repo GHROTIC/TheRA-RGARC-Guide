@@ -76,6 +76,14 @@
 
 ###### ***Go to the Main Menu, select Options -> Fix Permissions. After the Fix Permissions script sends you back to the Main Menu press the Start Button and go down the menu to Quit -> Restart.***
 
+### 11. How do I switch my Rom storage to/from SD Card 1 and SD Card 2?
+
+###### ***Go to the Main Menu, select Options -> Advanced. Switch to SD2 for Roms or Switch to main SD for Roms will be in the directory depending on what you already have active. ***
+
+### 12. I want to go back to the stock firmware. Where can I download it?
+
+###### ***You can download the stock firmware at [Anbernic's Website](https://win.anbernic.com/download/289.html).***
+
 
 <br>
 <br>
