@@ -32,7 +32,7 @@
 
 ### 2. What software should I use to flash my Micro SD Card?
 
-###### ***Rufus has been found to be the most reliable by the community: https://rufus.ie***
+###### ***The community considers [Rufus](https://rufus.ie) to be the most reliable for flashing without causing issues.***
 
 ### 3. What format should my Micro SD Cards be in?
 
