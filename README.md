@@ -19,7 +19,7 @@
 
 - *The colors on some systems are inverted (i.e. Dreamcast, Naomi and Atomiswave)*
 - *Attempting to manually scrape in the Edit Metadata section of a Rom causes EmulationStation to crash*
-- *Some games don't run correctly with the default settings, they won't launch at all or they require an analog stick. This list can be found on the [Compatibility Page](../main/Compatibility.md).*
+- *Some games don't run correctly with the default settings or they require an analog stick. This list can be found on the [Compatibility Page](../main/Compatibility.md).*
 
 <br>
 <br>
