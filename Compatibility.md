@@ -4,7 +4,7 @@
 
 
 
-###### *There may be additional incompatible titles. Only one regional variant tested in most cases.
+###### *There may be additional incompatible titles. Only one regional variant tested in most cases. CHD Format.
 
 
 
