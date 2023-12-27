@@ -6,7 +6,7 @@
 
 <br>
 
-### <p align=center>-:Arcade LaserDisc (Daphne):-</p>
+### <p align=center>-:Arcade LaserDisc (Daphne/Hypseus):-</p>
 
 <br>
 
