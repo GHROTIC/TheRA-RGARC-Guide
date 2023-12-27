@@ -15,7 +15,7 @@
 ###### *Create a romname.commands file with the following information: -sound_buffer 1024 -rotate 90*<br>
 
 ###### *This will rotate the video with the least amount of info being added. So for Dragon's Lair the file would be dlair.commands and placed in the dlair.daphne folder with the rest of the files.*
-###### *To save time you can [Download Premade Files](../Downloads/file.zip) to fix the incorrect video rotations. The extra bits in the commands files for Dragon's lair, Space Ace and Cliff Hanger(Bank 01100, etc) are Dip Switch Recommended Settings(Max lives, skip annoying parts, etc). Just copy these files to your Daphne Roms File and it should work as expected.  Make sure the rom names match your Daphne Roms.*
+###### *To save time you can [Download Premade Files](..//Downloads/Daphne_Command_Files_for_ARC.zip) to fix the incorrect video rotations. The extra bits in the commands files for Dragon's lair, Space Ace and Cliff Hanger(Bank 01100, etc) are Dip Switch Recommended Settings(Max lives, skip annoying parts, etc). Just copy these files to your Daphne Roms File and it should work as expected.  Make sure the rom names match your Daphne Roms.*
 
 ##### ***- Thanks to Morfious on The Retro Handhelds Discord for providing this fix.***
 
