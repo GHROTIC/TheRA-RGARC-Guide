@@ -4,7 +4,15 @@
 
 ###### <p align=center> *There may be additional incompatible titles. Only one regional variant tested in most cases. Default CFW settings. </p>
 
+<br>
 
+### <p align=center>-:Dreamcast:-</p>
+
+| **Game Name**                                        | **Region** | **Notes**                                                       | **Fix or Alternate Version**                              |
+| ---------------------------------------------------- | :--------: | --------------------------------------------------------------- | --------------------------------------------------------- |
+| .                                                    | .          | .                                                               | .                                                         |
+
+<br>
 
 ### <p align=center>-:Nintendo 64:-</p>
 
