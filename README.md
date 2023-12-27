@@ -80,9 +80,11 @@
 
 ### 14. How do I use SSH for file transfers over WiFi?
 
-###### ***[Filezilla](https://filezilla-project.org) is recommended as it's free and easy to use. In Filezilla Select File -> Site Manager. When creating a New Site select the Protocol as SFTP and enter the IP address of your RG ARC by pressing the Start Button in the Main Menu of your device(When connected to Wifi it will show at the bottom center of the screen). -ADDl Instructions coming for Filezilla***
+###### ***[Filezilla](https://filezilla-project.org) is recommended as it's free and easy to use. In Filezilla Select File -> Site Manager. When creating a New Site select the Protocol as SFTP and enter the IP address of your RG ARC. You can obtain this by pressing the Start Button in the Main Menu of your RG ARC(When connected to Wifi it will show at the bottom center of the screen).***
 
-###### ***Logon Type: Normal<br> Default login and password is:<br> Login: ark<br> Password: ark***
+###### ***Logon Type: Normal<br><br> Default login and password is:<br> Login: ark<br> Password: ark***
+
+###### ***After pressing Connect you should now be able to access your RG ARC's file system remotely. For Reference ../roms2 is the directory for the Micro SD Card in the second slot.***
 
 ### 15. I want to go back to the stock firmware. Where can I download it?
 
