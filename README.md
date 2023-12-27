@@ -1,4 +1,4 @@
-# <p align=center>The Retro Arena Custom Firmware Guide</p>
+# <p align=center>The Retro Arena Firmware Guide for the RG ARC</p>
 #### **<p align=center>Current Version: Beta 9</p>**
 <p align=center><img src=https://i.imgur.com/lTJdQyN.jpg width=60%></p>
 
