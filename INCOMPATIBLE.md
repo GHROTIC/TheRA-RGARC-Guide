@@ -2,7 +2,7 @@
 
 
 
-###### *There may be additional incompatible titles. Only one regional variant tested in most cases. CHD Format. Default CFW settings.
+###### *There may be additional incompatible titles. Only one regional variant tested in most cases. Default CFW settings.
 
 
 
