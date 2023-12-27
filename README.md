@@ -26,61 +26,65 @@
 
 ## <p align=center>FAQ & Troubleshooting:</p>
 
-### 1. Scraper tells me to "Refresh update games lists to apply changes" but how do I update the game list?
-
-###### ***Press the Start Button in the Main Menu, go to Quit at the bottom and select to Restart EmulationStation to update your Game Lists. In some cases your games may fail to show the correct images until you Restart System instead.***
-
-### 2. What software should I use to flash my Micro SD Card?
+### 1. What software should I use to flash my Micro SD Card?
 
 ###### ***The community considers [Rufus](https://rufus.ie) to be the most reliable.***
 
-### 3. What format should my Micro SD Cards be in?
+### 2. What format should my Micro SD Cards be in?
 
 ###### ***Your TF1/SD1 card will have the correct formatting applied when you flash the image with Rufus. Your TF2/SD2 card may be formatted ExFat or NTFS but it is recommended to use NTFS.***
 
-### 2. How do I connect to WiFi?
+### 3. I've installed TheRA Custom Firmware onto my MicroSD Card but the screen is black when I turn it on. What should I do?
+
+###### ***This can happen if the image didn't properly flash or it has been flashed on a poor quality 16GB Micro SD card that doesn't truthfully have 16GB(i.e. the stock RG ARC OS Card). If it's a known good card then try Re-Flashing the image on a different computer or with a different Micro SD Card Reader.***
+
+### 4. How do I switch my Rom storage to/from SD Card 1 and SD Card 2?
+
+###### ***Go to the Main Menu, select Options -> Advanced. Switch to SD2 for Roms or Switch to main SD for Roms will be in the directory depending on what you already have active.***
+
+### 5. How do I connect to WiFi?
 
 ###### ***Go to the Retroarch folder in the Main Menu and open Retroarch. Go to Settings -> Wi-Fi -> Connect to Network.***
 
-### 3. My Networks are missing in the Retroarch Wi-Fi -> Connect to Network Menu. How do I make them appear?
+### 6. My Networks are missing in the Retroarch Wi-Fi -> Connect to Network Menu. How do I make them appear?
 
 ###### ***If Retroarch Scans for Networks and does not find your Network you will need to back out with the B button twice and Quit Retroarch. In the Main Menu go to Options -> Advanced -> WIFION(Options -> WIFION if you have folders hidden) and your system will reboot. Once you go back to Connect to Network in Retroarch your Networks should now appear.***
 
-### 4. How do I update the software?
+### 7. How do I update the software?
 
 ###### ***Once you are connected to Wifi you can go into Options -> Arcupdate to open the OTA Update Software. By default it will have "Updating to the latest Version" highlighted and you will only need to press the A button to confirm. Once the update has completed and you are back at the Main Menu go to Options -> Fix Permissions. After the Fix Permissions script sends you back to the Main Menu press the Start Button and go down the menu to Quit -> Restart.***
 
-### 5. How do I change my Theme?
+### 8. My power button doesn't put the ARC into Sleep Mode and/or my Volume Buttons aren't working. What should I do?
 
-###### ***Go to the Main Menu, select Options -> Misc -> Thememaster to download new Themes(Warning: a few themes are not compatible and will be partially broken or will be completely missing text - will note at a later time).***
+###### ***Go to the Main Menu, select Options -> Fix Permissions. After the Fix Permissions script sends you back to the Main Menu press the Start Button and go down the menu to Quit -> Restart.***
 
-### 6. How do I open the menu while playing a game?
+### 9. Scraper tells me to "Refresh update games lists to apply changes" but how do I update the game list?
 
-###### ***By default this is set to L2 + R2 for Retroarch based emulators. For Yaba Sanshiro Standalone(Sega Saturn) you can use the Select Button.***
+###### ***Press the Start Button in the Main Menu, go to Quit at the bottom and select to Restart EmulationStation to update your Game Lists. In some cases your games may fail to show the correct images until you Restart System instead.***
 
-### 7. How do I exit a game?
+### 10. How do I change my Theme?
 
-###### ***By default this is set to F(Function Key on the top of the device) twice.***
+###### ***Go to the Main Menu, select Options -> Misc -> Thememaster to download new Themes(Warning: a few themes are not compatible and will be partially broken or will be completely missing text).***
 
-### 8. Why do I not see the C and Z buttons in the Retroarch controller configuration?
+### 11. How do I open the menu while playing a game?
+
+###### ***By default this is set to L2 + R2 for Retroarch based emulators and can be changed within the Retroarch Input -> Hotkeys Settings. For Yaba Sanshiro Standalone(Sega Saturn) you can use the Select Button.***
+
+### 12. Why do I not see the C and Z buttons in the Retroarch controller configuration?
 
 ###### ***Within Retroarch the setting for Z will be the L3 button and C will be the R3 button.***
 
-### 9. How do I use SSH for file transfers over WiFi?
+### 13. How do I exit a game?
+
+###### ***By default this is set to F(Function Key on the top of the device) twice.***
+
+### 14. How do I use SSH for file transfers over WiFi?
 
 ###### ***Default login and password is:<br> Login: ark<br> Password: ark***
 
 ###### ***If your SSH client (for example Filezilla [recommended] ) asks you for a port, introduce "22". Now you can browse through the complete file system and transfer files at will. Backup your files before doing any changes this way, highly recommended, almost obligatory if you ask me. - (Credit to Foxtochop on Discord)***
 
-### 10. My power button doesn't put the ARC into Sleep Mode and/or my Volume Buttons aren't working. What should I do?
-
-###### ***Go to the Main Menu, select Options -> Fix Permissions. After the Fix Permissions script sends you back to the Main Menu press the Start Button and go down the menu to Quit -> Restart.***
-
-### 11. How do I switch my Rom storage to/from SD Card 1 and SD Card 2?
-
-###### ***Go to the Main Menu, select Options -> Advanced. Switch to SD2 for Roms or Switch to main SD for Roms will be in the directory depending on what you already have active.***
-
-### 12. I want to go back to the stock firmware. Where can I download it?
+### 15. I want to go back to the stock firmware. Where can I download it?
 
 ###### ***You can download the stock firmware at [Anbernic's Website](https://win.anbernic.com/download/289.html).***
 
