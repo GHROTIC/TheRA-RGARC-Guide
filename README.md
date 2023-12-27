@@ -66,7 +66,7 @@
 
 ###### ***Go to the Main Menu, select Options -> Misc -> Thememaster to download new Themes(Warning: a few themes are not compatible and will be partially broken or will be completely missing text).***
 
-### 11. How do I open the menu while playing a game?
+### 11. How do I open the Configuration Menu while playing a game?
 
 ###### ***By default this is set to L2 + R2 for Retroarch based emulators and can be changed within the Retroarch Input -> Hotkeys Settings. For Yaba Sanshiro Standalone(Sega Saturn) you can use the Select Button.***
 
