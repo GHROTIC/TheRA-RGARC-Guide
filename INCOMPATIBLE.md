@@ -6,7 +6,7 @@
 
 <br>
 
-### <p align=center>-:Arcade LaserDisc (Daphne/Hypseus):-</p>
+## <p align=center>-:Arcade LaserDisc (Daphne/Hypseus):-</p>
 
 <br>
 
@@ -21,7 +21,17 @@
 
 <br>
 
-### <p align=center>-:Dreamcast:-</p>
+## <p align=center>-:Arcade (MAME):-</p>
+
+| **Game Name**                                        | **Set Name** | **Notes**                                                       | **Fix or Alternate Version**                              |
+| ---------------------------------------------------- | :----------: | --------------------------------------------------------------- | --------------------------------------------------------- |
+| Big Fight - Big Trouble in the Atlantic Ocean        | bigfight     | FPS is too low to be playable                                   | Edit Metadata to run under Retroarch/MAME2010 Core        |
+| Big Fight                                            | crysking     | FPS is too low to be playable                                   | Edit Metadata to run under Retroarch/MAME2010 Core        |
+
+<br>
+
+
+## <p align=center>-:Dreamcast:-</p>
 
 | **Game Name**                                        | **Region** | **Notes**                                                       | **Fix or Alternate Version**                              |
 | ---------------------------------------------------- | :--------: | --------------------------------------------------------------- | --------------------------------------------------------- |
@@ -29,7 +39,7 @@
 
 <br>
 
-### <p align=center>-:Nintendo 64:-</p>
+## <p align=center>-:Nintendo 64:-</p>
 
 | **Game Name**                                        | **Region** | **Notes**                                                       | **Fix or Alternate Version**                              |
 | ---------------------------------------------------- | :--------: | --------------------------------------------------------------- | --------------------------------------------------------- |
@@ -37,7 +47,7 @@
 
 <br>
 
-### <p align=center>-:Sega Saturn:-</p>
+## <p align=center>-:Sega Saturn:-</p>
 
 | **Game Name**                                        | **Region** | **Notes**                                                       | **Fix or Alternate Version**                              |
 | ---------------------------------------------------- | :--------: | --------------------------------------------------------------- | --------------------------------------------------------- |
