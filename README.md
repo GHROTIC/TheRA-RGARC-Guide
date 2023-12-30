@@ -48,7 +48,7 @@
 
 ### 6. My Networks are missing in the Retroarch Wi-Fi -> Connect to Network Menu. How do I make them appear?
 
-###### ***If Retroarch Scans for Networks and does not find your Network you will need to back out with the B button twice and Quit Retroarch. In the Main Menu go to Options -> Advanced -> WIFION(Options -> WIFION if you have folders hidden) and your system will reboot. Once you go back to Connect to Network in Retroarch your Networks should now appear.***
+###### ***If Retroarch Scans for Networks and doesn't find your Network you will need to back out with the B button twice and Quit Retroarch. In the Main Menu go to Options -> Advanced -> WIFION(Options -> WIFION if you have folders hidden) and your system will reboot. Once you go back to Connect to Network in Retroarch your Networks should now appear.***
 
 ### 7. How do I update the software?
 
