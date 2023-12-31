@@ -26,10 +26,12 @@
 | **Game Name**                                        | **Set Name** | **Notes**                                                       | **Fix or Alternate Version**                              |
 | ---------------------------------------------------- | :----------: | --------------------------------------------------------------- | --------------------------------------------------------- |
 | Big Fight - Big Trouble in the Atlantic Ocean        | bigfight     | FPS is too low to be playable                                   | Edit Metadata to run under Retroarch/MAME2010 Core        |
-| Big Fight                                            | crysking     | FPS is too low to be playable                                   | Edit Metadata to run under Retroarch/MAME2010 Core        |
+| The Crystal of Kings                                 | crysking     | Does not run                                                    | Edit Metadata to run under Retroarch/MAME2010 Core        |
+| Knights of Valor 2 - New Legend                      | kov2nl       | Does not run                                                    | Edit Metadata to run under Retroarch/MAMEARCADE Core      |
+| Knights of Valor 3                                   | kov3         | Does not run                                                    | Edit Metadata to run under Retroarch/MAMEARCADE Core      |
+| Oriental Legend 2                                    | orleg2       | Does not run                                                    | Edit Metadata to run under Retroarch/MAMEARCADE Core      |
 
 <br>
-
 
 ## <p align=center>-:Dreamcast:-</p>
 
