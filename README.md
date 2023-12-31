@@ -64,7 +64,7 @@
 
 ### 10. How do I change my Theme?
 
-###### ***Go to the Main Menu, select Options -> Misc -> Thememaster to download new Themes(Warning: a few themes are not compatible and will be partially broken or will be completely missing text).***
+###### ***Go to the Main Menu, select Options -> Misc -> Thememaster to download new Themes. Some themes are not fully compatible and will have text alignment/size issues(i.e. ES-THEME-EPICNOIR). Avoid ES-THEME-RETRONEON as it is completely broken with missing text.***
 
 ### 11. How do I open the Configuration Menu while playing a game?
 
