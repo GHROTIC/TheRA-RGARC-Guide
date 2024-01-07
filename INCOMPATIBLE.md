@@ -53,12 +53,12 @@
 
 | **Game Name**                                        | **Region** | **Notes**                                                       | **Fix or Alternate Version**                              |
 | ---------------------------------------------------- | :--------: | --------------------------------------------------------------- | --------------------------------------------------------- |
-| Burning Rangers                                      | USA        | *Crashes after Character Select*                                | UNKNOWN                                                   |
+| Burning Rangers                                      | USA        | *Crashes after Character Select*                                | NONE                                                      |
 | Keio Flying Squadron 2                               | Europe     | *Crashes after selecting Game Start*                            | Edit Metadata to run under Retroarch32/Yabasanshiro Core  |
 | Shining Force III Scenario 1-3 (English Translation) | Japan      | *Crashes when attempting to run the game*                       | Edit Metadata to run under Yabasanshiro Standalone-NOBIOS |
 | Super Tempo                                          | Japan      | *Black Screen when attempting to run the game - Ponjen/Discord* | Edit Metadata to run under Yabasanshiro Standalone-NOBIOS |
 | Waku Waku 7                                          | Japan      | *Various levels of missing sprites and flickering. Unplayable.* | Use Neo Geo version                                       |
-| X-Men: Children of the Atom                          | USA        | *Does not work and/or unplayable - Tinker/Discord*              | Use CPS-II Arcade version under FinalBurn Neo             |
-| X-Men Vs Streetfighter                               | USA        | *Does not work and/or unplayable - Tinker/Discord*              | Use CPS-II Arcade version under FinalBurn Neo             |
+| X-Men: Children of the Atom                          | USA        | *Does not work and/or unplayable - Tinker/Discord*              | Use CPS-II Arcade version under Arcade/FinalBurn Neo      |
+| X-Men Vs Streetfighter                               | USA        | *Does not work and/or unplayable - Tinker/Discord*              | Use CPS-II Arcade version under Arcade/FinalBurn Neo      |
 
 <br>
