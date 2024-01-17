@@ -1,5 +1,5 @@
 # <p align=center>The Retro Arena Firmware Guide for the RG ARC</p>
-#### **<p align=center>Current Version: Beta 9</p>**
+#### **<p align=center>Current Version: Beta 10</p>**
 <p align=center><img src=https://i.imgur.com/lTJdQyN.jpg width=60%></p>
 
 <br>
@@ -17,11 +17,10 @@
 
 ## <p align=center>Known Issues:</p>
 
-- *The colors on some systems are inverted (i.e. Dreamcast, Naomi and Atomiswave)*
 - *Attempting to manually scrape in the Edit Metadata section of a Rom causes EmulationStation to crash and restart*
-- *Arcade CPS1-3 running on FBNeo defaults Strong Punch & Strong Kick to L1 & R1 instead of Z & C. While not an issue persay you can get the arcade style controls by changing L3(Z button) to Strong Punch and R3(C Button) to Strong Kick.*
-- *If you reset your Theme Metadata Settings in the UI Settings it will make Neo Geo CD incorrectly target FBNeo.*
-- *Some games don't run correctly with the default settings or they require an analog stick. This list can be found on the [Compatibility Page](../main/INCOMPATIBLE.md).*
+- *Nintendo 64 games in 7z or zip files are not detected. This can be fixed by adding ".zip .ZIP .7z .7Z" extensions to the Nintendo - 64 section of the es_systems.cfg file. This file can be found in ./etc/emulationstation/*
+- After opening Arcupdate Select+Start makes the system lock up instead of exiting the program. The only way out is to hold the power button to shut the device down.
++ *Some games don't run correctly with the default settings or they require an analog stick. This list can be found on the [Compatibility Page](../main/INCOMPATIBLE.md).*
 
 <br>
 <br>
