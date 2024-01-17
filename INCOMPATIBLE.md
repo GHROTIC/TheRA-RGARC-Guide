@@ -54,7 +54,7 @@
 | **Game Name**                                        | **Region** | **Notes**                                                       | **Fix or Alternate Version**                              |
 | ---------------------------------------------------- | :--------: | --------------------------------------------------------------- | --------------------------------------------------------- |
 | Burning Rangers                                      | USA        | *Crashes after Character Select*                                | NONE                                                      |
-| Keio Flying Squadron 2                               | Europe     | *Crashes after selecting Game Start*                            | Edit Metadata to run under Retroarch32/Yabasanshiro Core  |
+| Mr. Bones                                            | USA        | *Locks up when loading the first level*                         | NONE                                                      |
 | Shining Force III Scenario 1-3 (English Translation) | Japan      | *Crashes when attempting to run the game*                       | Edit Metadata to run under Yabasanshiro Standalone-NOBIOS |
 | Super Tempo                                          | Japan      | *Black Screen when attempting to run the game - Ponjen/Discord* | Edit Metadata to run under Yabasanshiro Standalone-NOBIOS |
 | Waku Waku 7                                          | Japan      | *Various levels of missing sprites and flickering. Unplayable.* | Use Neo Geo version                                       |
