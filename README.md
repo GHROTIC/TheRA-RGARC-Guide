@@ -20,7 +20,7 @@
 - *Attempting to manually scrape in the Edit Metadata section of a Rom causes EmulationStation to crash and restart*
 - *Nintendo 64 games in 7z or zip files are not detected. This can be fixed by adding ".zip .ZIP .7z .7Z" extensions to the Nintendo - 64 section of the es_systems.cfg file. This file can be found in ./etc/emulationstation/*
 - After opening Arcupdate Select+Start makes the system lock up instead of exiting the program. The only way out is to hold the power button to shut the device down.
-+ *Some games don't run correctly with the default settings or they require an analog stick. This list can be found on the [Compatibility Page](../main/INCOMPATIBLE.md).*
++ *Some games may not run correctly with the default settings or they require an analog stick.
 
 <br>
 <br>
