@@ -1,5 +1,8 @@
 # <p align=center>The Retro Arena Firmware Guide for the RG ARC</p>
-#### **<p align=center>Current Version: Beta 10</p>**
+#### **<p align=center>Current Version: Beta 10 Test 6</p>**
+
+# ***<p align=center>This page is currently outdated and based around Beta 9. Will do a revision at release. :)</p>***
+
 <p align=center><img src=https://i.imgur.com/lTJdQyN.jpg width=60%></p>
 
 <br>
